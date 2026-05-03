@@ -7,7 +7,7 @@ author:
   name: "Duvier Fontanella"
   role: "PhD Candidate in Theoretical and Computational Astrophysics"
   affiliation: "Department of Fundamental Physics and Mathematics, University of Salamanca"
-  email: "your.email@example.com"
+  email: "duvier@usal.es"
   github: "Du92"
 
 collections:
@@ -32,11 +32,6 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - Dockerfile
-  - docker-compose.yml
-  - README.mdexclude:
-  - Gemfile
-  - Gemfile.lock
   - README.md
   - vendor
   - vendor/
@@ -44,3 +39,8 @@ exclude:
   - .bundle/
   - .git
   - .gitignore
+  - _site
+  - _site/
+  - .jekyll-cache
+  - .jekyll-cache/
+  - .jekyll-metadata
