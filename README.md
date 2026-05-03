@@ -1,5 +1,11 @@
 # Personal Website
 
-Academic personal website of Duvier Suarez Fontanella.
+Academic personal website of Duvier Fontanella.
 
-Built as a static HTML/CSS website and hosted with GitHub Pages.
+Built with Jekyll, Markdown, and GitHub Pages.
+
+## Local development
+
+```bash
+bundle install
+bundle exec jekyll serve
