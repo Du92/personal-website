@@ -33,7 +33,7 @@ title: Home
 
   <div class="hero-photo-wrap">
     <img class="hero-photo"
-         src="{{ '/assets/images/profile/profile.jpeg' | relative_url }}"
+         src="{{ '/assets/images/profile/duvier.png' | relative_url }}"
          alt="Duvier Suárez Fontanella">
   </div>
 </section>
