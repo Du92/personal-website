@@ -42,74 +42,6 @@ title: Home
 
 
 
-<section class="section">
-  <h2>Selected visual work</h2>
-
-  <p>
-    A few visual examples from exploratory simulations, scientific figures, and
-    computational work related to compact objects, axion electrodynamics, and
-    dark-sector phenomenology.
-  </p>
-
-  <div class="visual-grid">
-
-    <article class="visual-card">
-      <video controls muted playsinline preload="metadata"
-             poster="{{ '/assets/images/research/axion-em-gr-gw-halo-poster.png' | relative_url }}">
-        <source src="{{ '/assets/videos/research/axion_em_summary.mp4' | relative_url }}"
-                type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-
-      <div class="visual-card-body">
-        <h3>Axion-electromagnetic dynamics</h3>
-        <p>
-          Exploratory <code>axion_em_gr</code> simulation showing field
-          evolution in a prescribed 3+1 background.
-        </p>
-        <p>
-          <a href="{{ '/software/axion-em-gr/' | relative_url }}">Related software</a>
-        </p>
-      </div>
-    </article>
-
-    <article class="visual-card">
-      <img src="{{ '/assets/images/research/axion-halo-gw-response.png' | relative_url }}"
-           alt="Axion halo response to a gravitational-wave perturbation">
-
-      <div class="visual-card-body">
-        <h3>Axion halo response</h3>
-        <p>
-          Visual diagnostic of an axion configuration interacting with
-          electromagnetic fields and spacetime perturbations.
-        </p>
-        <p>
-          <a href="{{ '/research/axion-electrodynamics/' | relative_url }}">Related research</a>
-        </p>
-      </div>
-    </article>
-
-    <article class="visual-card">
-      <img src="{{ '/assets/images/research/resonant-surface-bns.png' | relative_url }}"
-           alt="Resonant conversion surface in a binary neutron-star magnetosphere">
-
-      <div class="visual-card-body">
-        <h3>Resonant conversion surfaces</h3>
-        <p>
-          Schematic or numerical visualization of axion-photon conversion
-          regions in magnetized neutron-star environments.
-        </p>
-        <p>
-          <a href="{{ '/research/neutron-stars-dark-matter/' | relative_url }}">Related research</a>
-        </p>
-      </div>
-    </article>
-
-  </div>
-</section>
-
-
-
 
 
 <section class="section">
@@ -186,6 +118,77 @@ title: Home
     </p>
   </div>
 </section>
+
+
+
+<section class="section">
+  <h2>Selected visual work</h2>
+
+  <p>
+    A few visual examples from exploratory simulations, scientific figures, and
+    computational work related to compact objects, axion electrodynamics, and
+    dark-sector phenomenology.
+  </p>
+
+  <div class="visual-grid">
+
+    <article class="visual-card">
+      <video controls muted playsinline preload="metadata"
+             poster="{{ '/assets/images/research/axion-em-gr-gw-halo-poster.png' | relative_url }}">
+        <source src="{{ '/assets/videos/research/axion_em_summary.mp4' | relative_url }}"
+                type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+
+      <div class="visual-card-body">
+        <h3>Axion-electromagnetic dynamics</h3>
+        <p>
+          Exploratory <code>axion_em_gr</code> simulation showing field
+          evolution in a prescribed 3+1 background.
+        </p>
+        <p>
+          <a href="{{ '/software/axion-em-gr/' | relative_url }}">Related software</a>
+        </p>
+      </div>
+    </article>
+
+    <article class="visual-card">
+      <img src="{{ '/assets/images/research/axion-halo-gw-response.png' | relative_url }}"
+           alt="Axion halo response to a gravitational-wave perturbation">
+
+      <div class="visual-card-body">
+        <h3>Axion halo response</h3>
+        <p>
+          Visual diagnostic of an axion configuration interacting with
+          electromagnetic fields and spacetime perturbations.
+        </p>
+        <p>
+          <a href="{{ '/research/axion-electrodynamics/' | relative_url }}">Related research</a>
+        </p>
+      </div>
+    </article>
+
+    <article class="visual-card">
+      <img src="{{ '/assets/images/research/resonant-surface-bns.png' | relative_url }}"
+           alt="Resonant conversion surface in a binary neutron-star magnetosphere">
+
+      <div class="visual-card-body">
+        <h3>Resonant conversion surfaces</h3>
+        <p>
+          Schematic or numerical visualization of axion-photon conversion
+          regions in magnetized neutron-star environments.
+        </p>
+        <p>
+          <a href="{{ '/research/neutron-stars-dark-matter/' | relative_url }}">Related research</a>
+        </p>
+      </div>
+    </article>
+
+  </div>
+</section>
+
+
+
 
 
 
