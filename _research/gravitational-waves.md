@@ -22,3 +22,14 @@ dynamics, waveform properties, and multimessenger interpretation.
 - Effective modeling of dark-matter effects.
 - Multimessenger signatures of hidden sectors.
 - Connections with next-generation detectors such as the Einstein Telescope.
+
+## Publication
+
+<div class="card publication">
+  <h3>Gravitational Wave emission in Binary Neutron Star early post-merger within a dark environment</h3>
+  <p>D. Suárez-Fontanella, D. Barba-González, C. Albertus, M. Pérez-García</p>
+  <p><strong>Physics Letters B</strong>, 2025</p>
+  <p>
+    <a href="https://doi.org/10.1016/j.physletb.2025.139358">View publication</a>
+  </p>
+</div>
