@@ -1,6 +1,10 @@
 ---
 layout: default
-title: Home
+title: "Duvier Suárez Fontanella | Theoretical & Computational Astrophysicist"
+description: "Personal website of Duvier Suárez Fontanella, theoretical and computational astrophysicist working on axion electrodynamics, neutron stars, gravitational waves, dark matter and scientific computing."
+image: /assets/images/profile/duvier.png
+permalink: /
+lang: en
 ---
 
 <section class="hero hero-grid">
@@ -77,7 +81,7 @@ title: Home
       <div class="visual-card-body">
         <h3>Gravitational Waves</h3>
         <p>
-          PSD of the postmerger (3 ms) of a BNS in a dark enviroment.
+          PSD of the early post-merger gravitational-wave signal (3 ms) from a binary neutron-star system in a dark-matter environment.
         </p>
         <p>
           <a href="{{ '/research/gravitational-waves/' | relative_url }}">Related research</a>
@@ -193,7 +197,7 @@ title: Home
     <h3>University of Salamanca</h3>
     <p class="meta">PhD Researcher · 2022–2026</p>
     <p>
-      Final-year PhD researcher at the Department of Fundamental Physics and
+      PhD researcher at the Department of Fundamental Physics and
       Mathematics, working on dark-matter signatures in compact objects and
       gravitational-wave observables.
     </p>
