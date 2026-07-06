@@ -72,15 +72,15 @@ title: Home
 
     <article class="visual-card">
       <img src="{{ '/assets/images/research/psd-gw.png' | relative_url }}"
-           alt="Axion halo response to a gravitational-wave perturbation">
+           alt="Gravitational Waves">
 
       <div class="visual-card-body">
-        <h3>Gravitational Wave</h3>
+        <h3>Gravitational Waves</h3>
         <p>
           PSD of the postmerger (3 ms) of a BNS in a dark enviroment.
         </p>
         <p>
-          <a href="{{ '/research/axion-electrodynamics/' | relative_url }}">Related research</a>
+          <a href="{{ '/research/gravitational-waves/' | relative_url }}">Related research</a>
         </p>
       </div>
     </article>
