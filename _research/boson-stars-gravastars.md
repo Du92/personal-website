@@ -35,6 +35,15 @@ phenomenology.
 </div>
 
 <div class="card publication">
+  <h3>A stability analysis of the static Einstein‐Klein‐Gordon Boson Stars</h3>
+  <p>Duvier Suarez Fontanella, Alenjandro Cabo Montes de Oca</p>
+  <p><strong>Astronomische Nachrichten</strong>, 2017</p>
+  <p>
+    <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asna.202113911">View publication</a>
+  </p>
+</div>
+
+<div class="card publication">
   <h3>Boson star solutions of the Einstein–Klein–Gordon equations in the sense of Colombeau–Egorov's theory of generalized functions</h3>
   <p>A Cabo Montes de Oca, D Suárez Fontanella, NG Cabo Bizet</p>
   <p><strong>Astronomische Nachrichten</strong>, 2017</p>
