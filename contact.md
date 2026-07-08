@@ -7,7 +7,7 @@ permalink: /contact/
 # Contact
 
 **Duvier Suárez Fontanella**  
-PhD Researcher in Theoretical and Computational Astrophysics
+PhD in Theoretical and Computational Astrophysics
 
 **Institution**  
 Department of Fundamental Physics and Mathematics  

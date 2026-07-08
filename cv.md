@@ -6,8 +6,8 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-I am a final-year PhD researcher in theoretical and computational astrophysics
-at the University of Salamanca. My academic profile combines compact-object
+I am PhD in theoretical and computational astrophysics
+by the University of Salamanca. My academic profile combines compact-object
 physics, dark-matter phenomenology, gravitational-wave signatures, axion/ALP
 physics, numerical modeling, scientific software development, teaching, and
 science communication.
