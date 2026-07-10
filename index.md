@@ -84,7 +84,7 @@ lang: en
           PSD of the early post-merger gravitational-wave signal (3 ms) from a binary neutron-star system in a dark-matter environment.
         </p>
         <p>
-          <a href="{{ '/research/gravitational-waves/' | relative_url }}">Related research</a>
+          <a href="{{ '/research/2-gravitational-waves/' | relative_url }}">Related research</a>
         </p>
       </div>
     </article>
@@ -100,7 +100,7 @@ lang: en
           regions in magnetized neutron-star environments.
         </p>
         <p>
-          <a href="{{ '/research/neutron-stars-dark-matter/' | relative_url }}">Related research</a>
+          <a href="{{ '/research/3-neutron-stars-dark-matter/' | relative_url }}">Related research</a>
         </p>
       </div>
     </article>
