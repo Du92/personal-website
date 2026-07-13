@@ -16,7 +16,7 @@ science communication.
 
 ## Academic profile
 
-- Final-year PhD researcher at the University of Salamanca.
+- PhD in Theoretical Physics from the University of Salamanca.
 - Research experience at Paris Observatory and ICIMAF.
 - First-author publications in relativistic astrophysics and astroparticle physics.
 - Contributor to the Einstein Telescope Collaboration science case.
