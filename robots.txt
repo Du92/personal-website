@@ -1,0 +1,8 @@
+---
+layout: null
+---
+
+User-agent: *
+Allow: /
+
+Sitemap: https://duviersuarezfontanella.es/sitemap.xml
