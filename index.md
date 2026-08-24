@@ -138,6 +138,7 @@ lang: en
   </ul>
 </section>
 
+<!-- 
 <section class="section">
   <h2>Selected highlights</h2>
 
@@ -169,6 +170,7 @@ lang: en
     </p>
   </div>
 </section>
+-->
 
 <section class="section">
   <h2>Selected software</h2>
