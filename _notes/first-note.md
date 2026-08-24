@@ -1,13 +1,12 @@
 ---
 layout: page
-title: First Note
+title: Note
 date: 2026-05-02
-summary: "A first test note for the academic website."
+summary: "A litle disclaimer ."
 ---
 
 # First Note
 
-This is a first note written in Markdown.
+This website contains theoretical physics, speculative particles, questionable amounts of coffee, and code that occasionally works for reasons not yet understood.
 
-You can use this section for short derivations, teaching material, technical
-comments, or summaries related to your research.
+Any resemblance between my equations and the actual universe is entirely intentional—although the universe has not formally confirmed it.
