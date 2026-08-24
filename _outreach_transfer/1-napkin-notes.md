@@ -13,6 +13,17 @@ Napkin Notes is a science communication blog–magazine created with friends as
 a space for clear ideas, everyday science, quick estimates, and curiosity-driven
 questions.
 
+<figure class="figure">
+  <img
+    src="{{ '/assets/images/outreach/nn_logo.png' | relative_url }}"
+    alt="Napkin Notes logo"
+  >
+
+  <figcaption>
+    [https://napkinnotes.es](https://napkinnotes.es).
+  </figcaption>
+</figure>
+
 The project is built around a simple premise: many interesting scientific
 questions can begin with a rough calculation, an intuitive argument, or a
 Fermi-style estimate written on a napkin. Instead of aiming for excessive
