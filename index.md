@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Duvier Suárez Fontanella | Theoretical & Computational Astrophysicist"
-description: "Personal website of Duvier Suárez Fontanella, theoretical and computational astrophysicist working on axion electrodynamics, neutron stars, gravitational waves, dark matter and scientific computing."
+description: "theoretical and computational astrophysicist working on axion electrodynamics, neutron stars, gravitational waves, dark matter and scientific computing."
 image: /assets/images/profile/duvier.png
 permalink: /
 lang: en
