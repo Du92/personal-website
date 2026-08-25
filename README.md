@@ -1,6 +1,6 @@
 # Personal Website
 
-Academic personal website of Duvier Fontanella.
+Academic personal website
 
 Built with Jekyll, Markdown, and GitHub Pages.
 
